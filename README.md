@@ -2,7 +2,7 @@
 
 ## 💡 About Me:  
 🚀 Passionate about software development and AI innovations  
-🎓 Final-year B.Tech student (Graduating in 2025)  
+🎓 B.Tech student 
 💻 Exploring React.js, Spring Boot, and AI projects  
 
 ## 📚 Currently Learning:  
